@@ -1,0 +1,25 @@
+{
+  "name": "tekdhabacors",
+  "version": "1.0.0",
+  "description": "adding cors functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahadmahmood20/tekdhabacors.git"
+  },
+  "keywords": [
+    "tekdhabacors"
+  ],
+  "author": "Fahad Mahmood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahadmahmood20/tekdhabacors/issues"
+  },
+  "homepage": "https://github.com/fahadmahmood20/tekdhabacors#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.3"
+  }
+}
